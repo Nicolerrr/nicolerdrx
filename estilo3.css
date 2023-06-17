@@ -1,0 +1,80 @@
+*
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200&display=swap');
+
+body {
+    font-family: Abril Fatface;
+    margin: 10px;
+    background-color: rgb(64, 56, 87);
+
+}
+
+h1{
+   font-family: Tajawal;
+   font-size: 40px;
+   color:rgb(88, 127, 129);
+   font-weight: 600;
+   letter-spacing: -2px;
+   text-align: justify;
+
+}
+
+h2{
+    font-family: Tajawal;
+    font-size: 32px;
+    color:rgb(88, 127, 129);
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+.cabecera{
+    margin: 0px 0px;
+    width: 1348px;
+    height;:200px
+}
+.cuerpo{
+    max-width: 1110px;
+    padding:15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenido{
+    float:left;
+    width:65%
+
+}
+
+div.contenido img{
+    width: 100%;
+}
+
+.barra-lateral{
+    padding-top: 50px;
+    float: right;
+    width: 30%;
+
+}
+
+.barra-lateral h3 {
+    color:hotpink;
+    text-align: justify;
+    border-bottom: 1px solid #444;
+
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.pie{
+    clear:both;
+    color:white;
+    background-color: darkcyan;
+    min-height: 100px;
+    padding:10px;
+    text-align: center;
+
+}
+
+
